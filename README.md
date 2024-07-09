@@ -1,12 +1,14 @@
-![4xsve4ffnn2lyekrnee](https://github.com/shohabbosdev/shohabbosdev/assets/71746304/553f3240-7273-486d-a8b7-12683af20036)<h1 align="center">
   Assalomu alaykum
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h1 align="center">
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB6emE2OG9kdGpycDZmdnhzMDZpb3Y4ZmQ2b2ZtbDQ4MmkyczRrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" />
 </div>
+  
+![4xsve4ffnn2lyekrnee](https://github.com/shohabbosdev/shohabbosdev/assets/71746304/553f3240-7273-486d-a8b7-12683af20036)
+
 <hr>
-![Uploading 4xsve<!-- sample rectangle -->4ffnn2lyekrnee.svg…]()
 <div id="badges" align="center">
   <a href="https://t.me/shohabbosdev">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Bu telegram badges">
